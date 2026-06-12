@@ -13,8 +13,8 @@ This project analyses historical marketing spend and lead‑conversion data to p
 | File | Description |
 |------|-------------|
 | **`data_science_test_data.xlsx`** | Raw data containing two sheets: <br> • **Sheet1** – daily marketing spend per channel + promotion flag <br> • **Sheet2** – lead‑level data (Lead Date, Qualified Date, Purchase Date) |
-| **`mindgruve_main_analysis.ipynb`** | Main Jupyter Notebook. It contains:<br> • A detailed description of the entire project<br> • Data cleaning, merging, feature engineering, exploratory analysis, and linear regression modelling<br> • **Conclusion** answering the business question: *“Which channel should get the incremental budget and why?”*<br> • **Main results and interpretation:** what the numbers mean in business terms for Amber Road |
-| **`mindgruve_supporting_answers.ipynb`** | Supporting notebook answering two specific questions:<br> • **A clear explanation of what was done** – how the data was used, how the models were built, and why the linear regression approach was chosen<br> • **How you would improve this analysis: what additional data, information, or analyses would make your recommendation stronger.** |
+| **`mindgruve_test.ipynb`** | Main Jupyter Notebook. It contains:<br> • A detailed description of the entire project<br> • Data cleaning, merging, feature engineering, exploratory analysis, and linear regression modelling<br> • **Conclusion** answering the business question: *“Which channel should get the incremental budget and why?”*<br> • **Main results and interpretation:** what the numbers mean in business terms for Amber Road |
+| **`attached_supporting_notebook.ipynb`** | Supporting notebook answering two specific questions:<br> • **A clear explanation of what was done** – how the data was used, how the models were built, and why the linear regression approach was chosen<br> • **How you would improve this analysis: what additional data, information, or analyses would make your recommendation stronger.** |
 
 ---
 
