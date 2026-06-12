@@ -1,4 +1,4 @@
-## 📊 Amber Road Channel Allocation Analysis – README
+# 📊 Mindgruve Test (Business Case): Amber Road Channel Allocation Analysis
 
 ### 🎯 Project Objective
 
