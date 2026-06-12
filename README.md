@@ -20,12 +20,12 @@ This project analyses historical marketing spend and lead‑conversion data to p
 
 ### 🛠️ Technologies Used
 
-- **Python** 3  
+- **Python**  
 - **Pandas** – data manipulation  
 - **NumPy** – numerical operations  
 - **Matplotlib & Seaborn** – visualisations  
 - **Scikit‑learn** – train/test split, linear regression, evaluation metrics (R², RMSE, MAE)
-- Among others 
+- etc.
 
 ---
 
